@@ -7,3 +7,6 @@
 [submodule "Stock picker"]
 	path = Stock picker
 	url = https://github.com/ImMPrada/top_stock_picker
+[submodule "Bubble sort"]
+	path = Bubble sort
+	url = https://github.com/ImMPrada/top_bubble_sort
