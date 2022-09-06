@@ -1,3 +1,6 @@
 [submodule "Caesar cipher"]
 	path = Caesar cipher
 	url = https://github.com/ImMPrada/top_caesar_cipher
+[submodule "Sub strings"]
+	path = Sub strings
+	url = https://github.com/ImMPrada/top_sub_strings
