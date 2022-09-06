@@ -10,3 +10,6 @@
 [submodule "Bubble sort"]
 	path = Bubble sort
 	url = https://github.com/ImMPrada/top_bubble_sort
+[submodule "Fibonacci"]
+	path = Fibonacci
+	url = https://github.com/ImMPrada/top_fibonacci
