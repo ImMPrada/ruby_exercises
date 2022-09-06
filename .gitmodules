@@ -1,0 +1,6 @@
+[submodule "fibonacci_recursive"]
+	path = fibonacci_recursive
+	url = git@github.com:ImMPrada/top_fibonacci.git
+[submodule "bubble_sort"]
+	path = bubble_sort
+	url = git@github.com:ImMPrada/top_bubble_sort.git
