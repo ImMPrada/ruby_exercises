@@ -4,3 +4,6 @@
 [submodule "Sub strings"]
 	path = Sub strings
 	url = https://github.com/ImMPrada/top_sub_strings
+[submodule "Stock picker"]
+	path = Stock picker
+	url = https://github.com/ImMPrada/top_stock_picker
