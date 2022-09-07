@@ -1,12 +1,16 @@
 [submodule "fibonacci_recursive"]
 	path = fibonacci_recursive
 	url = git@github.com:ImMPrada/top_fibonacci.git
+	branch = main
 [submodule "bubble_sort"]
 	path = bubble_sort
 	url = git@github.com:ImMPrada/top_bubble_sort.git
+	branch = main
 [submodule "caesar_cipher"]
 	path = caesar_cipher
 	url = git@github.com:ImMPrada/top_caesar_cipher.git
+	branch = main
 [submodule "stock_picker"]
 	path = stock_picker
 	url = git@github.com:ImMPrada/top_stock_picker.git
+	branch = main
