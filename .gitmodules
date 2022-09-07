@@ -4,3 +4,9 @@
 [submodule "bubble_sort"]
 	path = bubble_sort
 	url = git@github.com:ImMPrada/top_bubble_sort.git
+[submodule "caesar_cipher"]
+	path = caesar_cipher
+	url = git@github.com:ImMPrada/top_caesar_cipher.git
+[submodule "stock_picker"]
+	path = stock_picker
+	url = git@github.com:ImMPrada/top_stock_picker.git
