@@ -14,3 +14,7 @@
 	path = stock_picker
 	url = git@github.com:ImMPrada/top_stock_picker.git
 	branch = main
+[submodule "sub_strings"]
+	path = sub_strings
+	url = git@github.com:ImMPrada/top_sub_strings.git
+	branch = main
