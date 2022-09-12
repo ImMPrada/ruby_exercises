@@ -18,3 +18,6 @@
 	path = sub_strings
 	url = git@github.com:ImMPrada/top_sub_strings.git
 	branch = main
+[submodule "recursion"]
+	path = recursion
+	url = git@github.com:ImMPrada/top_recursion.git
