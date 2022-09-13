@@ -21,3 +21,6 @@
 [submodule "recursion"]
 	path = recursion
 	url = git@github.com:ImMPrada/top_recursion.git
+[submodule "linked-lists"]
+	path = linked-lists
+	url = git@github.com:microverse-students/lists-ImMPrada.git
