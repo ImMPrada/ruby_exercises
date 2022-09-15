@@ -21,15 +21,20 @@
 [submodule "recursion"]
 	path = recursion
 	url = git@github.com:ImMPrada/top_recursion.git
+	branch = main
 [submodule "linked-lists"]
 	path = linked-lists
 	url = git@github.com:microverse-students/lists-ImMPrada.git
+	branch = main
 [submodule "data_structures"]
 	path = data_structures
 	url = git@github.com:ImMPrada/data_structures.git
+	branch = main
 [submodule "stacks"]
 	path = stacks
 	url = git@github.com:microverse-students/stack-ImMPrada.git
+	branch = main
 [submodule "queue"]
 	path = queue
 	url = git@github.com:microverse-students/queue-ImMPrada.git
+	branch = main
