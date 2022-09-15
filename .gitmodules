@@ -38,3 +38,6 @@
 	path = queue
 	url = git@github.com:microverse-students/queue-ImMPrada.git
 	branch = main
+[submodule "folder/recursion"]
+	path = folder/recursion
+	url = git@github.com:ImMPrada/top_recursion.git
