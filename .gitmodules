@@ -24,3 +24,9 @@
 [submodule "linked-lists"]
 	path = linked-lists
 	url = git@github.com:microverse-students/lists-ImMPrada.git
+[submodule "data_structures"]
+	path = data_structures
+	url = git@github.com:ImMPrada/data_structures.git
+[submodule "stacks"]
+	path = stacks
+	url = git@github.com:microverse-students/stack-ImMPrada.git
