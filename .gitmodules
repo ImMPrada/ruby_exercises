@@ -30,3 +30,6 @@
 [submodule "stacks"]
 	path = stacks
 	url = git@github.com:microverse-students/stack-ImMPrada.git
+[submodule "queue"]
+	path = queue
+	url = git@github.com:microverse-students/queue-ImMPrada.git
