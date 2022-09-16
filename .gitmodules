@@ -23,7 +23,7 @@
 	url = git@github.com:ImMPrada/top_recursion.git
 	branch = main
 [submodule "linked-lists"]
-	path = linked-lists
+	path = linked-lists 
 	url = git@github.com:microverse-students/lists-ImMPrada.git
 	branch = main
 [submodule "data_structures"]
