@@ -38,3 +38,7 @@
 	path = queue
 	url = git@github.com:microverse-students/queue-ImMPrada.git
 	branch = main
+[submodule "stack_min"]
+	path = stack_min
+	url = git@github.com:microverse-students/min-stack-ImMPrada.git
+	branch = main
