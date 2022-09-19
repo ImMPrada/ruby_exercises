@@ -42,3 +42,12 @@
 	path = stack_min
 	url = git@github.com:microverse-students/min-stack-ImMPrada.git
 	branch = main
+[submodule "sliding-maximum"]
+	path = sliding-maximum
+	url = git@github.com:microverse-students/sliding-maximum-ImMPrada.git
+[submodule "mastermind"]
+	path = mastermind
+	url = git@github.com:ImMPrada/top_mastermind.git
+[submodule "balanced-brackets"]
+	path = balanced-brackets
+	url = git@github.com:microverse-students/balanced-brackets-ImMPrada-1.git
