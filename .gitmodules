@@ -51,3 +51,6 @@
 [submodule "balanced-brackets"]
 	path = balanced-brackets
 	url = git@github.com:microverse-students/balanced-brackets-ImMPrada-1.git
+[submodule "transposition"]
+	path = transposition
+	url = git@github.com:microverse-students/transposition-ImMPrada.git
