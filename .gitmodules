@@ -45,12 +45,16 @@
 [submodule "sliding-maximum"]
 	path = sliding-maximum
 	url = git@github.com:microverse-students/sliding-maximum-ImMPrada.git
+	branch = main
 [submodule "mastermind"]
 	path = mastermind
 	url = git@github.com:ImMPrada/top_mastermind.git
+	branch = main
 [submodule "balanced-brackets"]
 	path = balanced-brackets
 	url = git@github.com:microverse-students/balanced-brackets-ImMPrada-1.git
+	branch = main
 [submodule "transposition"]
 	path = transposition
 	url = git@github.com:microverse-students/transposition-ImMPrada.git
+	branch = main
