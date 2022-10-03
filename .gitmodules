@@ -26,10 +26,6 @@
 	path = linked-lists 
 	url = git@github.com:microverse-students/lists-ImMPrada.git
 	branch = main
-[submodule "data_structures"]
-	path = data_structures
-	url = git@github.com:ImMPrada/data_structures.git
-	branch = main
 [submodule "stacks"]
 	path = stacks
 	url = git@github.com:microverse-students/stack-ImMPrada.git
@@ -58,3 +54,9 @@
 	path = transposition
 	url = git@github.com:microverse-students/transposition-ImMPrada.git
 	branch = main
+[submodule "data-structures"]
+	path = data-structures
+	url = git@github.com:ImMPrada/data_structures.git
+[submodule "top_hangman"]
+	path = top_hangman
+	url = https://github.com/ImMPrada/top_hangman
