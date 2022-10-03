@@ -57,6 +57,8 @@
 [submodule "data-structures"]
 	path = data-structures
 	url = git@github.com:ImMPrada/data_structures.git
+	branch = main
 [submodule "top_hangman"]
 	path = top_hangman
 	url = https://github.com/ImMPrada/top_hangman
+	branch = main
