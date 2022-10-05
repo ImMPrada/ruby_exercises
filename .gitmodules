@@ -62,3 +62,9 @@
 	path = top_hangman
 	url = https://github.com/ImMPrada/top_hangman
 	branch = main
+[submodule "hangman"]
+	path = hangman
+	url = git@github.com:ImMPrada/top_hangman.git
+[submodule "basic_recursion"]
+	path = basic_recursion
+	url = git@github.com:microverse-students/basic-recursion-ImMPrada.git
