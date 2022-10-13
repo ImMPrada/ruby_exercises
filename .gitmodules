@@ -68,3 +68,9 @@
 [submodule "basic_recursion"]
 	path = basic_recursion
 	url = git@github.com:microverse-students/basic-recursion-ImMPrada.git
+[submodule "binary_search"]
+	path = binary_search
+	url = git@github.com:microverse-students/binary-search-ImMPrada.git
+[submodule "hannoi_1"]
+	path = hannoi_1
+	url = git@github.com:microverse-students/towers-of-hanoi---part-1-ImMPrada.git
